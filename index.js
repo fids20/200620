@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'FIDS BOT☄'; 
-const instagram = 'NOTHING'; 
-const telegram = 'NOTHING'; 
+const BotName = 'FIDSBOT☄'; 
+const instagram = ' '; 
+const telegram = ' '; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'NOTHING';
+const youtube = ' ';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
